@@ -1,7 +1,5 @@
 # EZ-Systems
 
-Task:
-
 You are required to write a LoadBalancer class(es).
 The class has 2 public methods.
 The first – the constructor – takes two arguments. The first argument is a list of host
