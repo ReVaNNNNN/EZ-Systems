@@ -14,7 +14,7 @@ use LoadBalancer\Algorithms\ThreeQuartersAlgorithm;
 $hosts = [
      new Host('Great service'),
      new Host('Amazing service'),
-     new Host('Turbo service'),
+     new Host('Awesome service'),
 ];
 
 echo 'Simple Algorithm:<br><br>';
