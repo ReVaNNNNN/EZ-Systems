@@ -32,7 +32,7 @@ class Host
      */
     public function handleRequest(Request $request) : void
     {
-        // do some magic :)
+        // Do some magic :)
         // echo $this->name . ': handled request.' . "<br>";
     }
 }
