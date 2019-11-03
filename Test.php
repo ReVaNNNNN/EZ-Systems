@@ -20,11 +20,9 @@ $hosts = [
 echo 'Simple Algorithm:<br><br>';
 
 $simpleAlgorithm = new SimpleAlgorithm();
-
 $loadBalancer1 = new LoadBalancer($hosts, $simpleAlgorithm);
 $request1 = new Request();
 $loadBalancer1->handleRequest($request1);
-
 
 //*****************************************
 
