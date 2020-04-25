@@ -2,9 +2,9 @@
 
 You are required to write a LoadBalancer class(es):
 
-* The class has 2 public methods.
+* Class has 2 public methods.
 
-* The first – the constructor – takes two arguments. The first argument is a list of host
+* The first – constructor – takes two arguments. The first argument is a list of host
 instances that should be load balanced. The second argument is the variant of load
 balancing algorithm to be used.
 
