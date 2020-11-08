@@ -1,6 +1,6 @@
 # EZ-Systems
 
-You are required to write a LoadBalancer funcionality:
+You are required to write classes with a LoadBalancer funcionality:
 
 * Class has 2 public methods.
 
